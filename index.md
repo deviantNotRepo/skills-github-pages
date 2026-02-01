@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: idk how to use markdown
 ---
